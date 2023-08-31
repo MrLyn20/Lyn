@@ -22,18 +22,18 @@ title: 同志社大学社会学研究科　陳凌雲
 email: yunxihuanyuki@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   地域福祉とソーシャルワーク評価について学びます。
-baseurl: "Lyn" # the subpath of your site, e.g. /blog
-url: "https://mrlyn20.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
 markdown: kramdown
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
+plugins:
+  - jekyll-feed # add this line to the plugins list if you already have one
 
-# _config.yml
-jekyll: 3.9.3
 
 # Exclude from processing.
 # The following items will not be processed, by default.
