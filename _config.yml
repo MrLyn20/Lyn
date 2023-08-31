@@ -32,10 +32,6 @@ markdown: kramdown
 # Build settings
 theme: jekyll-theme-minimal
 
-plugins:
-  - jekyll-feed # add this line to the plugins list if you already have one
-
-
 # _config.yml
 jekyll: 3.9.3
 
