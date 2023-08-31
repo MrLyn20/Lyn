@@ -4,6 +4,42 @@ date: 2023-08-15
 author: JAMES R. DUDLEY
 ---
 
+
+```
+Sub CompareRangesAndCopy()
+    Dim sourceRange As Range
+    Dim comparisonRange As Range
+    Dim output As Range
+
+    ' ソースデータ、比較データ、出力先のセル範囲を設定します
+    Set sourceRange = Worksheets("Sheet1").Range("A1:I62")
+    Set comparisonRange = Worksheets("Sheet2").Range("A1:I62")
+    Set output = Worksheets("Sheet3").Range("A1:I62")
+    
+    ' ソースデータをコピーし、書式を出力範囲に貼り付けます
+    sourceRange.Copy
+    output.PasteSpecial Paste:=xlPasteFormats
+    Application.CutCopyMode = False
+    
+    Dim i As Integer
+
+    ' セルごとに値を比較し、出力範囲に値をコピーします
+    For i = 1 To sourceRange.Cells.Count
+        If sourceRange.Cells(i).Value = comparisonRange.Cells(i).Value Then
+            ' 値が一致する場合、ソースデータの値を出力範囲にコピーします
+            output.Cells(i).Value = sourceRange.Cells(i).Value
+            output.Cells(i).Interior.Color = RGB(0, 255, 0) ' 绿色
+        Else
+            ' 値が異なる場合、比較データの値を出力範囲にコピーし、背景色を赤に設定します
+            output.Cells(i).Value = comparisonRange.Cells(i).Value
+            output.Cells(i).Interior.Color = RGB(255, 0, 0) ' 赤色
+        End If
+    Next i
+End Sub
+
+```
+
+
 # 7 Monitoring the Implementation and the Operation of Programs
 
 ## THE STRUCTURE OF THIS CHAPTER
