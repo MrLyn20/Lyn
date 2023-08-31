@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # If you want to use GitHub Pages, uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins, :github => "github/pages-gem"
+gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
