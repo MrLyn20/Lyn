@@ -1,0 +1,455 @@
+---
+title: Chapter 1 Making the Connection
+date: 2023-08-01
+author: JAMES R. DUDLEY
+---
+
+**Part I**
+
+**Introduction**
+
+Chapter 1 introduces foundational material for understanding virtually all the material in the remaining chapters. The book begins by indicating that both programs and practice are its focus. The concept of an evaluation and the steps in conducting an evaluation are introduced. Evaluations are viewed broadly and can be conducted at three different possible stages of development, when programs and practice interventions are being planned, implemented, and during an outcome stage after implementation.
+
+# CHAPTER 1 Evaluation and Social Work Making the Connection
+
+Let's begin by considering three important questions:
+
+1. Is evaluation an important practice area of social work?
+2. Is the evaluator role an important one for social workers?
+3. How can evaluations help improve or enhance social work interventions?
+
+These questions may be your questions as you begin to read this book. They are questions that many social work practitioners and students have pondered. This book is about evaluation so the responses to the first two questions, in brief, will be no surprise to you. Yes, evaluation is an important area of social work. In addition, the evaluator role is an important one for every social worker to prepare to practice. Think about this. Some social workers will be evaluators of programs, and virtually every social work practitioner will be an evaluator of their own practice. It's like asking whether social workers need to know whether they are doing a good job. A good job should include knowing whether your interventions are effective in helping your clients. The third question, asking how evaluation can enhance or improve social work interventions, is the focus of this text.
+
+The underlying theme driving the book is that evaluation is a vital element of any social work approach and is critical for ensuring that social work does work! A reassuring theme is that evaluation is a practice area that BSW and MSW students and practitioners alike can learn. Social workers and students wanting to maximize their impact in their jobs will find what they need in the knowledge, ethics, and skills about evaluations covered in this book. Learning about them will both help you enhance your practice and have a greater impact on your clients' well-being.
+
+This book provides the needed preparation for evaluation in both a comprehensive and readable format. The primary emphasis is on the various kinds of small and mid-range formative evaluations that are often implemented at the local agency level; less emphasis is placed on the large, complex national and regional evaluations. These smaller formative evaluations are critical ones that social workers either are assigned or may want to take on as an opportunity to expand their practice. Such evaluations can be instrumental in determining whether the programs in which you are working will continue and possibly expand.
+
+>**Example of a Small Formative Evaluation**
+>
+> An agency that provides an anger management program to perpetrators of domestic violence offers a series of 10 psychoeducational group sessions to help them manage their anger. The agency also conducts an evaluation of this program that is vital to it. An anger management scale is used to measure changes that occur in the participants' anger after they have completed all 10 sessions of a group program. Throughout the series, the specific items of the anger management scale (e.g., being respectful, having self-control, being self-aware, learning alternatives to violent behavior) identify some of the key discussion topics of the group sessions. In this way, the intervention and its evaluation go hand in hand in helping practitioners and clients engage in a partnership to meet the goals of the program.
+
+## 1. A FOCUS ON BOTH PROGRAMS AND PRACTICE
+
+Both programs and social work practice are the focus of the book. While programs are covered quite extensively in most evaluation texts, evaluation of practice is covered less. Programs can be larger medium-sized entities serving many clients while practice refers to the activities of a single social worker with one client system. While program entities typically are much larger than practice, evaluations at both levels are important. It's sort of like saying a family system is important, and the parts played by each family member are as well.
+
+Virtually every social worker is or should be responsible for evaluating their practice. Based on this reality, all social workers need to have competencies in conducting practice evaluations if they are to be accountable for the effectiveness of their practice interventions. This will include evaluations at different system levels of practice including work with one client, a group of clients, a family, a community, or an organization.
+
+We need to know both what a program and practice intervention are and how they are different prior to understanding evaluations. Think of these two concepts as subunits of something larger. Programs are subunits of a social agency, and the practice of one worker is a subunit of a program. Their respective definitions are
+
+>**Program**: A subunit of a social agency that provides a set of interventions with common goals for clients.
+>
+>**Practice**: A subunit of a program that provides a set of interventions by one worker to one client system.
+
+Both programs and practice are referred to as interventions in the text and are often referred to as program interventions or practice interventions. For brevity, sometimes they are also addressed simply as services. Throughout the text, the square symbol will be a symbol that indicates the text in this section will focus only on program evaluations and a circle symbol will be a symbol of evaluations only of practice. Absence these symbols, the material in the text is largely relevant to both programs and practice.
+
+>**Exercise**
+>
+>1. As an exercise, identify a program of which you are familiar. Find out the program's interventions to clients (e.g., a home health program may have a social worker referring clients to several agencies, a nurse assessing a client's health indicators, and a nurse's aide bathing the client). Then try to identify a goal that is a more general description of all the interventions (e.g., a goal of a home health program is to help an elderly individual or couple stay in their own home rather than be referred to a nursing home)?
+>
+>2. Second, identify the practice of one social worker. This may be easier to do. Practice should be the interventions of one social worker in helping a client system (e.g., advocating for the repair of the heating system of the apartment of a client family, referring them to obtain food stamps, or helping them clarify their rights to certain Social Security benefits). Then see if you can identify a goal that is a more general description of these interventions (e.g.,helping a client family live successfully in their own home).
+
+Programs and practice are interdependent in many ways. Overall, practice interventions are defined and guided by the program and its goals. Yet, the effectiveness of programs depends upon the effectiveness of the practice interventions.
+
+## 2. PRACTICE IS EMBEDDED IN A PROGRAM
+
+A practice intervention is likely to be embedded in a program. This means that the program is instrumental in informing and shaping practice interventions. The program context offers numerous ways of informing what the practice interventions should be. As an example, one of the purposes of a program could be to reach out and provide services to underserved people in the community such as those who are the poorest and have the greatest material needs. In this case, the interventions of the practitioners should include finding out who the underserved are and reaching out to them in their neighborhoods. In addition, the practitioners could begin by conducting an informal community needs assessment to find out who the underserved people are and then reach out to them in their neighborhoods to find out if they need help.
+
+Another way in which practice is embedded in a program is apparent in the desired program goals chosen for clients. The goals of the program should inform what the outcomes of practice should be. If the outcomes of a program, for example, are to help mental health clients live independently in the community, then the outcomes of practice would likely be to enhance indicators of living independently in their communities. These practice indicators or outcomes could include, for example, finding employment, making new friends, and linking to social supports in the community such as a social club or a church choir.
+
+### **2.1 A Program Is Dependent on What Happens in Practice**
+
+Practice is an important place where you can discover what works and doesn't work in programs. If the practice offered by a social worker is not reflecting the program in content and quality, it may be counterproductive both to the program's purpose and its effectiveness.There can be several reasons why a worker's practice may not reflect the program's purposes. Possibly, the worker is not implementing the approach that supports the program's purpose. This could be the result of inadequate communication within the agency about the practice approach and how to implement it. Or the agency may have hired someone who is not qualified to carry out the practitioner role. And there could be other reasons such as neglecting to monitor the practice of a worker and thus failing to be able to correct such practice. For example, a residential program for people with a drug addiction directly depends upon each of its practitioners and the effectiveness of their interventions. Several questions about practice could be asked such as, Are each of the therapy groups run by people who meet the staff qualifications for these groups? Have staff been adequately trained about what is expected of them by the agency? and Are staff covering the important topics relevant to program success in group sessions? Ultimately, are they achieving the goals set by the program? These and other types of evaluation questions will be discussed more fully later in the text.
+
+### **2.2 Agency Training for Practice Is Important**
+
+Practice is not an entity developed in a vacuum or at the whim of a practitioner or supervisor. As previously indicated, practice interventions need to be aligned with the program within which they are embedded. Social work practitioners, once they graduate, usually have a good beginning sense of an overall approach to helping clients. They have likely been introduced to a variety of practice theories taught in their professional program such as cognitive-behavioral therapy, and they have been able to test some of these theories in their field practicum experiences. However, their beginning approach is not likely to be designed to serve a specific client population or at least not the clients in the agency in which they will be employed.
+
+When a new social worker begins employment at an agency, school, or medical facility, they will need to consider numerous new ways to prepare for their practice. For example, their new agency scene will likely require that they make some changes in their approach to helping. Learning about the client population is an important part of that preparation. Who are your new clients? What kinds of problems and needs do they have? What kinds of interventions are known to be most effective in helping them?
+
+The agency and its programs typically have an approach (or approaches) that the agency offers to help clients, and the agency is most likely to expect its practitioners to understand and know how to implement this approach. Mastering a new approach takes time and experience working with several clients. The agency approach may be quite explicit and detailed, it may only be described theoretically (e.g, cognitive-behavioral therapy), or it may even be vague and unnamed and absent a written description. Practitioners new to an agency will need to find ways to learn about the agency's approach and how to implement it. Hopefully they will have some agency training sessions and assistance from a supervisor who can provide valuable guidance. As new practitioners meet with growing numbers of clients, they will also come to realize the subtle variations in how to implement an agency approach and the unique issues of each client that need to be considered.
+
+## **3. INTRODUCTION TO EVALUATION**
+
+Evaluation is a multifaceted approach that addresses some of the most vital questions and issues facing programs and practice, such as the following:
+
+- What kinds of clients are the proposed program or practice intervention intended to reach?
+- What types of interventions do these clients need?
+- How are the interventions to be implemented?
+- What impact is the intervention expected to have on the clients?
+
+## **4. A THREE-STAGE APPROACH**
+
+The author views evaluation broadly as important to consider at any of the stages of development of a program or practice. The three basic stages that will be examined in the book are referred to as the planning, implementation, and outcome stages.The planning stage takes place prior to implementing the intervention and involves identifying the characteristics of the clients who are to be helped as well as their needs, designing the interventions that will be introduced to help these clients, and crafting the outcome measures that will be used to determine whether the clients have successfully reached their goals.
+
+During the implementation stage, evaluations are introduced to monitor how well the intervention is being implemented. Finally, after the clients have completed receiving the intervention, an outcome stage occurs when its time to determine how successful the clients have been in reaching their goals. Figure 1.1 above is an important framework that helps begin to organize much of the content of the book and will be presented periodically in appropriate chapters to highlight the focus of each of the stages as they are being covered. Notice that it all begins with the clients' needs.
+
+![Imgur](https://i.imgur.com/Im0EtM9.png)
+
+## **5. DIFFERENT PURPOSES OF EVALUATIONS**
+
+Overall, evaluations can have different purposes. Usually, some purposes are emphasized more than others, and this will vary widely. Generally, the usual purposes of evaluations include investigations of the effectiveness, efficiency, and quality of interventions (Martin & Kettner, 2010). Ideally, all three of these purposes are important. However, sometimes they can be at cross purposes with each other. For example, too much emphasis on efficiency could work against quality and effectiveness. This problem is often evident in some for-profit agencies that tend to concentrate too much on efficiency to maximize their profits and less on what clients may need such as more of the available resources.
+
+### **5.1 Effectiveness**
+
+Effectiveness refers to having success in reaching the goals of an intervention. In the case of programs and practice, effectiveness refers to maximizing positive changes for clients. As an example, a public health agency that provides the flu vaccine is effective if it prevents its patients from contracting the flu. An employment referral agency serving chronically unemployed people will be effective if it finds them long-term employment in well-paid jobs. Note that measure of effectiveness for the employment program adds additional requirements beyond just any job (long-term and well-paid).
+
+Effectiveness is evident in the results that are observed and measured after an intervention is completed. These results are often referred to as outcomes for clients. They reflect positive changes that have occurred for clients because of an intervention. It is important to note that if an intervention does not result in positive client changes (e.g., improved communication between a parent and her child), it must be concluded that the intervention was not effective. In such instances, the intervention may need to be revised or replaced by another intervention that potentially will be effective. Typically, a program intervention needs to have documentation that it is effective; otherwise, the program likely risks losing its funding.
+
+### **5.2 Efficiency**
+
+The efficiency of a program or practice intervention refers to the financial cost and other resources (e.g., staff, offices, and vehicles) necessary to provide the interventions to clients. Efficiency efforts are concerned with judiciously channeling available resources to what the intervention needs. Misdirected and wasted resources are to be avoided or minimized. Efficiency is particularly important because resources for health care and human service programs are always likely to be limited or even sometimes scarce. The more efficiently that interventions are delivered, the greater number of clients that can be potentially helped. Also, inefficient programs and practice, even if effective, are vulnerable to being discontinued. An example of efficiency could be to choose a less expensive new agency office after the rent goes up. Another example is hire one less staff member and increase the staff workloads.
+
+### **5.3 Quality**
+
+Quality refers to how well the program or practice interventions are delivered or implemented. Are they delivered at a high level of performance? Sometimes this high level has been referred to as “best practices.”" Quality is obviously important because a program or practice delivered very well will likely have a more positive impact on the recipients than one that is of a lower quality. Quality depends, among other things, on the quality of the staff members who are hired to provide the services. For example, do they have the most important credentials for the job such as a professional degree, appropriate training, and enough prior experience? Also, are new staff members responsible, ethical, reliable, and good communicators? In addition, does the program support enough home visits or group sessions for clients to accomplish their goals? Further, are the interventions provided in a most accessible way so clients can easily find and use them? Many other questions could also be asked such as, are the social workers to be hired culturally competent? Is clinical supervision readily available and provided by experienced personnel? These examples are all likely to be associated with a higher quality of services.
+
+>**Exercise**
+>
+> Determining quality can be complicated, and yet it is extremely important. As an exercise, what would you do to augment the quality of a social worker to be hired in the following situation? A social worker is to be hired to provide intensive counseling to emancipated adolescents who are about to be released from foster care.The overall goal of the counseling is to help these adolescents begin to live independently in the community.What information would you want to gather from applicants, both in their resumes and in interview questions, to select a social worker who will likely provide high-quality counseling with these adolescents?
+
+### **5.4 Effort and Relevance**
+
+In addition to the three previously mentioned common purposes of programs and practice, two more are also important if not crucial: evidence of substantial effort on the part of the sponsor of an intervention and relevance to the clients and the community. Evidence of effort is important regardless of the achievements of a program. Effort refers to the extent of involvement of staff members, volunteers, and administrators contributing to program and practice interventions. This involvement is most important when the interventions are being implemented. Questions that can be asked about effort include, How much time was spent in helping clients?
+
+How many home visits or office sessions occurred and what happened during these sessions? Another important question is whether the effort is sufficiently responsive to the expectations of the stakeholders including the funding agency, the program director, and clients?
+
+Relevance is another fundamental quality to consider in evaluating any intervention. Relevance of the intervention to the clients' needs and the larger social problems that clients are experiencing is most important. A program intervention can be carried out with high performance standards, efficient use of resources, and achievement of specific goals, but if it is not directly relevant to what the clients need, it is incomplete and misguided. The concept of relevance is about addressing the causes of the clients' problems, not merely symptoms or short-term surface issues of little significance. Relevance is also concerned with insuring that the diversity reflected in the clients who receive the intervention is similar to the diversity in the larger population that is suffering from the social problem. Overall, relevance involves seeking social justice for a client group that it serves. Diversity and social justice issues, as well as other important issues of relevance,are covered extensively in the text. As examples, both the National Association of Social Workers (NASW) Code of Ethics and the American Evaluation Association (AEA) code highlight numerous issues and responsibilities for evaluators to take seriously.
+In summary, five important evaluation questions need to be asked in any serious evaluation of a program or practice intervention. Please keep all of them in mind as you proceed through the rest of the text.
+
+>**Five Key Questions**
+>
+>1. Is the intervention effective in helping clients?
+>2. Does the intervention efficiently use all available resources?
+>3. Is the intervention being implemented at a high level of quality?
+>4. Is there evidence of substantial effort by staff members and others in implementing the intervention?
+>5. Is the intervention sufficiently relevant to the needs of the clients and the social problems confronting them?
+
+## **6. COMMON CHARACTERISTICS OF EVALUATIONS**
+
+To fully understand the nature of an evaluation, we need to not only understand the purposes of evaluation but also its common characteristics. When we examine an evaluation, we should be looking for manifestations of these common characteristics. The absence of any of them may suggest that an evaluation has important missing elements or shortcomings. These common characteristics include
+
+1. Be accountable.
+2. Use scientific research methods.
+3. Use the logic model as an analytic tool.
+4. Be open to a diversity of stakeholders and a political process.
+5. Be attentive to contextual issues in an agency and its environment.
+6. Abide by an ethical code.
+7. Be critical thinkers.
+
+We should keep in mind that each of these common characteristics continually interacts with and influences the others.
+
+### **6.1 Be Accountable**
+
+If there is one overall concept that explains why evaluations are so important, it is accountability. Partially because of past failings of social programs, all governmental and most privately funded agencies are held accountable for how they use their funds and what they achieve for their clients. Evaluations have become one of the most reliable mechanisms incorporated into program proposals for ensuring such accountability. Agency accountability is now inherent in the jurisdiction of virtually all funding and regulatory agencies, and it has become a key job expectation of agency and program administrators.
+These funding, regulatory, and administrative entities require accountability to address questions such as the following:
+
+- Is the intervention focusing on the target population with the greatest need?
+- Is the intervention designed to meet the specified needs of the target population?
+- Is the intervention being implemented in the way that it was designed and proposed?
+- Is the intervention being implemented with high standards?
+- Are the clients and their families satisfied with the intervention?
+- Is the intervention achieving its goals and objectives?
+- Is the intervention cost-effective?
+
+Ultimately, it is important for program sponsors to be accountable to the clients they serve.Because of the power imbalance between an agency and clients, special attention is needed to bring more balance between these two entities in the form of greater power and protection for clients. In addition, agencies need to be accountable to the communities that are intrinsically connected to clients, such as their family members and the neighborhoods surrounding residential programs.Accountability to clients and relevant communities often requires the introduction of empowerment strategies, such as client satisfaction surveys and client representation on agency boards and advisory groups. Another strategy is to encourage agencies to involve client groups as participants in program evaluations and to share the results of their evaluations with them. Chapter 2 further elaborates on other empowerment strategies.
+
+Social workers who work in such programs must be accountable not only to the agency employing them but also to their own professional groups, such as the NASW,Political Action for Candidate Election (PACE, a political arm of NASW), and their state-level professional licensing boards. In these instances, accountability refers to abiding by an ethical conduct of social work, commitments to clients' dignity and well-being, advocating for social justice, and implementation of sound and evidence-based professional practice.
+
+### **6.2 Use Scientific Research Methods**
+
+Evaluation activities are expected to be scientific and consider using a wide range of research methodologies (e.g., Dudley, 2011). Scientific research has long-standing values and principles that distinguish it from other types of information gathering. Many of these principles are evident in evaluations.
+
+### **6.3 Principles of Scientific-Based Evaluations**
+
+- The search for something that exists rather than something that is desired
+- Use of a methodology that minimizes the influence of biases and involves a systematic set of steps or procedures that can be flexibly employed
+- Abide by a special code of ethical conduct that includes a commitment to neutrality in conducting research and a demonstration of concern to protect the people studied
+- Assumption that the evaluation has a universal stance, representing the concerns of all society, even though it may focus on a few subgroups of people or a narrow topic
+- Accurate report of the findings despite whether they are consistent with the researcher's viewpoints.
+
+While these principles of scientific research are expected for all scientific studies, they are evident in evaluation studies to varying degrees and along a continuum of quality. The more an evaluation rigorously fulfills these principles, the more confident one can be that it is based on “good science.”
+
+### **6.4 Use the Logic Model as an Analytic Tool**
+
+The logic model is an organizing framework that many evaluators use to analyze both programs and practice. The logic model helps highlight how the stages of an intervention mentioned earlier (planning, implementation, outcomes) should be logically linked. In other words, this model anticipates that what was decided in the planning stage will be used to inform what happens during the implementation and outcome stages. In turn, the planning and implementation stages directly influence what the client outcomes will be and how they will be measured.
+
+First, let's consider programs at all three stages using the logic model. The linkages among the three stages are important to understand in some depth. Using an illustration, assume that a group of stakeholders have the purpose of setting up and implementing a program to help people who are chronically homeless find semi-independent housing. They begin in the planning stage. First, they will need to decide who their clients will be. In our illustration, this will likely be people who are chronically homeless, and possibly they will also consider other important client characteristics. The stakeholders will also need to decide what their clients' desired outcomes will be. This question addresses how these clients and their social circumstances will be different after they have been helped. In our example, the stakeholders are interested in helping the clients find and live successfully in a supportive, semi-independent living arrangement.
+
+This leads to a central question in the planning process.How will they help these clients reach this outcome? Let's say that the stakeholders have done some research about housing for homeless people and have become interested in the Housing First model that is being implemented many places across the United States.Agencies that have used this model have accumulated extensive evidence of chronically homeless people being helped to move directly from the streets and shelters into Housing First housing arrangements with minimal eligibility criteria. If they have mental health issues or substance problems, for example, this means that they will still be able to move into a supportive housing arrangement and receive help from a multidisciplinary professional team on site as soon as they arrive (e.g., Urban Ministry Center,2017).
+
+Note that the link or connection between the client outcome measures and the interventions are critical to the logic model. In our example, this means that the intervention that is chosen is expected to help clients successfully reach the client outcomes identified. In other words, the intervention that is selected should be evidence-based if possible. Evidence-based interventions are interventions that have been implemented before with documented scientific evidence of their effectiveness. In our example, let's assume that the chosen intervention, the Housing First model, has been found to be effective in the past in helping chronically homeless people live successfully in semi-independent housing (e.g., Urban Ministry Center,2017).
+
+The implementation stage comes next. This stage involves implementing the chosen intervention. Evaluations that are important during the implementation stage primarily consist of monitoring how well the intervention is being carried out with clients. Important evaluation questions at this stage include exploring whether the intervention is being implemented in the manner that it was proposed and observing whether the clients are responding favorably to the intervention's effect. In our housing example, the evaluators are attempting to determine if the clients are receiving the professional assistance that they need such as person-centered mental health services and adjusting well to their new living arrangement.
+
+The third stage is the outcome stage. This step comes once the clients have completed the intervention. At this point the evaluators must decide whether the clients have succeeded in reaching the client outcomes identified in the planning stage.If so, a claim can be made that the intervention was successful or effective. In our housing example, positive measures of the outcomes would indicate that the clients are successfully living in their new apartment building and meeting other important needs related to successful housing, such as their mental health adjustment. Also, successful outcomes will likely need to reflect efficiently used available resources and costing less that any known alternative interventions.
+
+***Example of the Use of the Logic Model in Designing a Program***
+
+> A group of MSW students was asked to design a program that would effectively help clients overcome substance abuse problems. They used the logic model to complete this exercise. They began by identifying some suspected causes of substance abuse, including heredity, peer influence, low self-esteem, social isolation, and inadequate coping skills. Next, they decided to design a program to address only the suspected causes that revolved around interpersonal issues, including peer influence, social isolation, low self-esteem, and inadequate coping skills. They decided to offer psychoeducational groups to teach clients the skills needed to manage these and other personal and interpersonal issues. They decided to cover specific topics such as how to find positive peer influences and avoid negative ones, how to find and participate in support groups, and some self-esteem building exercises. They anticipated that once participants had completed the psychoeducational group sessions they would be able to identify the factors that reduced their self-esteem, identify specific ways to build more positive selfesteem, and learn three or four new coping skills. By completion of the program, participants would also have made two or more visits to a support group in the community to help them stop using substances.
+
+Practice should also be evaluated at all three-stages using the logic model.Inputs are addressed during the planning stage including deciding which clients (or client systems) will receive the intervention, identifying the desired client outcomes, and choosing the intervention (approaches and processes) that the practitioner will use. During the time that the practice intervention is being implemented, monitoring is needed to determine how well the approach and processes are being implemented. Finally, after the intervention has been completed, evaluations of client outcomes are completed that determine how much progress the clients have made after they received help. This is largely determined by the outcome measures that were selected during the planning stage.
+In summary, the logic model helps the evaluator link the documented problems and needs of the clients to the intervention that will address them, and the intervention is, in turn, linked to the client outcomes that are anticipated after the intervention has been implemented. The logic model is elaborated on further in Chapters 2, 6 and 8. The three-stage approach is introduced more fully in the next chapter.
+
+### **6.5 Be Open to a Diversity of Stakeholders and a Political Process**
+
+While basic research is often considered apolitical, evaluations usually involve an overtly political process, meaning differences of opinion, view, and interest are present.Historical events and current political considerations need to be considered when discussing, planning, and implementing an evaluation. Indeed, an evaluation is a special type of research that intentionally incorporates political considerations into its execution. An evaluation may have several different stakeholders, and each one could have special interests that compete with that of other stakeholders. This is because stakeholders are usually a varied group. They could include governmental funding and regulatory agencies, foundations, public officials, board members, agency administrators, staff members, citizens, clients, advocacy groups, accountants and auditors, and representatives of the surrounding community. As you can imagine, each of them will likely have different interests.
+
+When talking about an evaluation, political issues almost always come into play, whether explicitly or implicitly. For example, political processes might be involved in any of the following types of questions that agency administrators, in particular, might raise.
+
+- How can we help those with the greatest need?
+- How can an evaluation help our program survive?
+- How can an evaluation improve our chances of obtaining funding to expand our program?
+- How can the results of an evaluation be used to enhance our program's identity in the larger network of agencies in our field?
+- How can we report negative findings from an evaluation without jeopardizing our program's existence?
+
+>**Example of a Political Consideration**
+>
+> A graduate student conducted an evaluation of staff morale at her field agency. She gave the staff members a questionnaire to fill out, asking them how important they perceived each of several different issues that affected their morale.The issues included salaries, medical benefits, size of caseloads, hours of work, supervision (its quality and frequency), and openness of administration to staff concerns. The findings revealed that their major concerns about morale related to their problems with supervisors and administration. Because the administration of the agency was taken by surprise and unprepared to seriously address these issues, they decided to ignore them and instructed the graduate student to withhold sharing her findings with the staff members.
+
+In contrast, a funding agency might ask very different questions about an evaluation, such as:
+
+- How can I be sure that this program is fulfilling its responsibilities?
+- How can I determine whether this program is more important than another program that we may want to fund?
+- How can I get the most fiscal value out of this program?
+- I like this program and its director, but how can I justify funding them when the proposal falls short of what we want?
+
+Political influences such as these must be considered at all stages of evaluating interventions, including during planning, implementation, and outcome. An approach that can be used to identify and analyze these contextual forces within and outside an agency is elaborated on later in the chapter. In general, this approach can help evaluators consider the political issues and questions that they may need to address or avert in conducting an evaluation before they become serious problems or ethical dilemmas. This approach helps evaluators identify both constraints that can create conflicts for an evaluation and potential resources that can help in conducting the evaluation. The identification of potential constraints and resources before implementation of an evaluation helps address both its feasibility and its ethical standing.
+
+### **6.6 Be Attentive to Contextual Issues in an Agency and Its Environment**
+
+A program and its practice interventions do not exist or operate in a vacuum. They are part of a larger dynamic system of many forces and factors. They include a wide range of policies, administrative leadership styles, staff and administrative communication patterns, varied perceptions of clients, and financial issues, all of which theoretically need to be taken into consideration when conducting a program evaluation. Figure 1.2 provides a sketch of many of these factors, large and small, in an agency and its environment.
+
+These factors and their dynamic interplay can have a major influence on an evaluation conducted by the agency. Social policies, for example, from several sources have direct influence on evaluations since they give programs and practice approaches meaning and purpose related to the problem to be addressed and the proposed solution. Governmental policies (local, state, and federal) are important to consider because they dictate what problems and solutions they will fund. Agency policies also have a direct or indirect influence in a wide range of areas such as financial matters, hiring, personnel, client admissions, and programmatic issues. An agency may have a specific policy, for example, about which client groups to prioritize for receiving services. Or they may take a strong stand supporting evidence-based interventions. Or client-centered practice. Or they could have a major commitment to strong fiscal policy and an expectation that benefits be in line with costs. By the way, agency policies that explain something about the nature of programs and practice may not be evident to new staff members and may need to be explained to them.
+
+Leadership style is another example of a factor of influence. One illustration of this dynamic interplay is administrative leadership styles. Administrators can assume many different styles, including autocrat, collaborator, and delegator. Administrators who are primarily collaborative, for example, are likely to have a different kind of influence on staff members when conducting an evaluation than those of an autocratic administrator.
+
+Also, organizational structures and processes, both informal and formal, are important factors with respect to their interplay with decision making (Weissman, Epstein, & Savage, 1983). In this case, while it is usually a good idea to consult everyone in an organization who is interested in and affected by an evaluation, some players will be more important to identify, including the people who formally oversee the program in question and those who have informal influence regardless of their formal title. These informal players, for example, could be instrumental in supporting or undermining an agency's formal structure. They could be, for example, lower-ranked employees, such as a highly invested secretary or a popular and outspoken staff member. All in all, evaluators can commit a serious and possibly fatal error in an evaluation if they overlook informal stakeholders who may be potentially central to the success of an evaluation but are excluded from evaluation discussions.
+
+Many other contextual factors are also directly relevant to an evaluation. For example, are the agency leaders well informed and educated about evaluations, as well as unequivocal supporters of evaluations? Or do they comprise novices who may be cautious and reluctant to pursue a study that can be risky? What is the agency's track record in this regard? Some standard questions of this sort could be asked of agency leaders at the outset to find out:
+
+- What kinds of expertise does the agency have for conducting a variety of evaluations?
+- How cooperative are staff members, both professional and support staff, in taking on additional responsibilities such as filling out questionnaires or searching for client records?
+- What's in it for the administration and direct service staff? Are all motives openly known and transparent, or do some appear to be covert or hidden?
+- Are there reasons staff members may be suspicious of the motives for an evaluation or reluctant to participate for fear of jeopardizing their jobs?
+
+Several contextual factors could also influence the extent to which the agency will disseminate the findings of an evaluation and implement its recommendations, including whether there are adequate resources, degree of desire to bring about a change in direction, and openness to risk the program's future. More attention will be given to these various forces in later chapters within the context of specific topics.
+
+![Imgur](https://i.imgur.com/0wUFbf2.png)
+
+### **6.7 Abide by an Ethical Code**
+
+Ethical issues are extremely important to identify when addressing political issues. The way in which decisions are made or not made should be partially based on an ethical code such as the NASW Code of Ethics (<www.naswdc.org>) or the ethical principles of the AEA (<www.eval.org>). As social workers and other human service professionals know, those who participate in research and evaluation are obligated to follow an ethical code.The NASW Code of Ethics is a basic code required of all social workers. It obligates an evaluator to be well informed about ethical issues and well versed in how to implement a variety of measures intended to prevent ethical problems from occurring. In addition, the ethical principles of the AEA are designed for professional evaluators specifically conducting evaluation studies. These principles are valuable to consult because they are directed toward issues essential for a professional evaluator to address (the AEA ethical principles are described in Appendix A).
+
+Ethical problems include such things as physical and psychological harm to research participants, invasion of their privacy, and misrepresentation of study findings. Evaluators are obligated to prevent such ethical problems by implementing a variety of ethical safeguards, including an informed consent protocol, confidentiality, and selection of evaluators with appropriate credentials and objectivity. Chapter 3 focuses on a more extensive introduction to many of the ethical concerns that are evident in evaluations and how to address them. It examines the NASW Code of Ethics and some of the ethical principles of the AEA, particularly as they pertain to the ethical obligations of social workers conducting evaluations.
+
+## **6.8 Think Critically**
+
+Another important characteristic of evaluations is critical thinking. Critical thinkers are natural skeptics about how well an evaluation is conducted, whether it is someone else's evaluation or one's own. Gambrill and Gibbs (2017) identify several types of problems that program providers experience when they fail to be critical thinkers:
+
+- Overlooking the people who may need the services of a program the most;
+- Not understanding the larger social forces that influence the ways clients behave;
+- Focusing on irrelevant factors that are not important in helping clients make progress;
+- Misclassifying or misdiagnosing clients and their problems;
+- Selecting interventions that are weak or inappropriate;
+- Arranging for interventions to continue either too long or not long enough; and
+- Being overly preoccupied with financial profit and neglecting the impact of such decisions on the clients' well-being (especially in for-profit agencies).
+
+The Council on Social Work Education (CSWE) views critical thinking as essential to the practice of every social worker. Because of the importance of critical thinking, CSWE refers to it as an element to be implemented in most of the nine required social work competencies (CSWE, 2015).
+
+A final note needs to be made about how the characteristics of evaluations are different from other types of research, particularly social science research conducted in academic settings. A closer look at the previously described common characteristics of an evaluation provides a helpful way of distinguishing evaluations and other types of research. First, evaluations are conducted primarily to provide accountability to a funding agency, clients, and the larger community that an intervention works effectively and efficiently, while social science research does not. Second, an evaluation places major emphasis on the logic model while most social science research does not. The logic model helps evaluators examine the links between the clients' problems, an intervention, and success in helping clients address these problems. Third, successful evaluations seek the involvement of all the important stakeholders while social science research may not. Evaluation stakeholders typically include groups with widely varying perspectives such as clients, regulatory agencies, and the agency administration overseeing the intervention. Fourth, an evaluation is continually engaged in a political process that attempts to bring together these widely different stakeholders so that ideally all their views are considered, and all are participating in harmony with each other. This is not usually an emphasis of social science research.
+
+## **7. SEVEN STEPS IN CONDUCTING AN EVALUATION**
+
+A general approach for conducting an evaluation is introduced here and elaborated on further in later chapters. The steps of thnis approach apply to both program and practice evaluations. The approach involves seven general steps based on a modified version of the steps identified in other evaluation approaches (e.g., Bamberger, Rugh, & Mabry, 2019;Linfield & Posavac, 2019;York,2009). Since the word "steps” is also used in other contexts in various parts of the book, whenever “steps” refers to this approach, it will be identified as the Seven Evaluation Steps.
+
+### **7.1 Seven Evaluation Steps**
+
+Step 1:Identify the Problem or Concern to Be Evaluated.
+
+Step 2:Identify and Explore Way/s to Involve Stakeholders.
+
+Step 3:Determine the Purpose of the Evaluation.
+
+Step 4:Plan the Evaluation.
+
+Step 5:Implement the Evaluation.
+
+Step 6:Prepare a Written or Oral Report.
+
+Step 7:Disseminate the Findings.
+
+#### Step 1: Identify the Problem or Concern to Be Evaluated
+
+During step 1, the evaluator becomes familiar with the problem or concern that an evaluation will examine. Some general questions to ask include the following: What is to be evaluated? Is the program working effectively or are there some problems that are evident? Similarly, on the practice level, is the intervention with the client working effectively? Why or why not?
+
+During this step, it is also important to begin gathering information about the context of the problem. It would be helpful to find out more about some of the pertinent components of the program or practice intervention. Also identifying the client population that is served, the clients' problems and needs that the intervention addresses, and the goals of the intervention. The services and goods that are provided to reach these goals are also important to identify and understand.
+
+#### Step 2: Identify and Explore Ways to Involve Stakeholders
+
+A concurrent step with the information gathering of step 1 is to identify and explore ways to involve the stakeholders of the program. Stakeholders are the people who are invested in the intervention in some way, such as representatives of the funding and regulatory groups that finance and set standards for the intervention and the administrators and board members of the agency sponsoring the program.Some stakeholders, especially program directors, are likely to be evaluated based on the interventionI's performance, so they also have an obvious stake in what happens. Staff members who deliver the goods and services have an obvious stake in the intervention as well. Their jobs depend on the program's survival and may also depend upon the success of their interventions. In addition, clients who are the recipients of the intervention and their family members have a vital stake in what happens to the intervention, as their daily functioning and very survival may depend on how well it performs. Stakeholders are likely to be different for program and practice interventions. Program interventions tend to primarily be macro stakeholders, such as members of a board of directors, community advisory boards, and others in the public sector, while the main stakeholders of practice interventions are often supervisors, practitioners, and client advocates.
+
+#### Step 3: Determine the Purpose of the Evaluation
+
+At this point, the evaluator needs to become familiar with the program or practice interventions to be evaluated and any known problems. Concurrently, relationships need to be developed with the stakeholders.Also, information needs to be gathered about who wants the evaluation and why. These discussions can help the evaluator find out how much the stakeholders know about evaluations, their views and past experiences with them, and whether they have a narrow or broad understanding of what an evaluation can be. These discussions should also be used for the evaluator to highlight the potential contributions of an evaluation, such as program improvements, new opportunities to help clients, or assistance in making important decisions.Examples of potential contributions to an evaluation are listed next.
+
+These discussions with stakeholders should not only uncover any contributions and resources that can support an evaluation, but also any apprehensions or doubts of stakeholders about evaluations generally. For example, could an evaluation be perceived as risky for some reason? Too costly? Take too much time? Interfere with program or practice operations? Therefore, during this step, it is also important to help the stakeholders identify any real or potential constraints such as the following.
+
+Step 3 becomes complete when all stakeholders and the evaluator have agreed on the general purpose of an evaluation. If a commonly agreed-on purpose for an evaluation cannot be identified, negotiations would likely be delayed or discontinued until a purpose could be identified. Identifying the purpose of a program evaluation is important as it may lead to keeping, expanding, or eliminating a program, and a practice evaluation may lead to varying an approach with some types of clients.
+
+>**Examples of Contributions and Resources to Consider**
+>
+>- Concerns expressed by stakeholders are highly relevant to clients' well-being.
+>- Stakeholders have considerable interest in an evaluation.
+>- Existing policies of the agency are supportive.
+>- Financial support is evident.
+>- An awareness of a problem with a program is evident.
+>- Openness to examine a problem further is expressed.
+>- Some understanding and respect for evaluations are expressed.
+>- Openness is evident to the evaluator as a resource.
+>- Staff are supportive of an evaluation.
+
+>**Examples of Constraints or Resistant Forces**
+>
+>- Limited time is available to conduct an evaluation.
+>- Costs appear too high.
+>- An evaluation is not supportive of existing policies.
+>- Evaluation focus can be too subjective.
+>- Fears it will open up the need to change.
+>- Limits are evident about what can change.
+>- Politics of the system are complex and unpredictable.
+>- Evaluator lacks expertise.
+>- The evaluation would have a problem accessing clients for feedback.
+>- There is no need to justify such an evaluation to the funding agency.
+
+#### Step 4:Plan the Evaluation
+
+Once a general purpose for an evaluation is agreed on, a plan for conducting an evaluation follows. Background work is needed at this point if not before.For example, a literature review is often helpful in finding out more about the problem that is the focus of the evaluation team. Other reports are also important including those that provide ideas on evaluation methodologies, pertinent program and practice approaches, and, of course, other evaluations on similar topics. Next, several aspects of a research design need to be developed, including a set of study questions to explore and hypotheses to test, choosing data sources (e.g., clients, staff members), developing a specific data collection instrument, and a data analysis plan. In addition, a plan to protect human participants of the study should not be overlooked or minimized.
+
+All aspects of a plan should involve discussions with the stakeholders so that there is strong support for it. When appropriate, the plan shouldI be prepared as a readable written proposal or oral presentation understandable to all stakeholders. With practice evaluations, it is important to engage the clients in understanding and participating in the evaluation plan even though this will take additional time and effort. For example, a goal attainment scale may be used in a practice evaluation to measure the clients' progress on their outcomes. In this case, the scale should be described to the clients initially, and clients should be encouraged to help define the specific outcome measures that fit their circumstances. Goal attainment scales and the role that clients can play in developing them are described more fully in Chapter 9.
+
+#### Step 5: Implement the Evaluation
+
+The evaluation plan, often referred to as the evaluation design, is now ready to be implemented. Often its implementation may involve several people in an agency, such as secretaries searching for client case material, staff members who will interview clients individually or in focus groups, and a questionnaire that staff members might need to hand out to clients. In a practice evaluation, staff members are likely to implement one form or another of a single-system design. Along with implementing the data collection effort, quantitative data are coded and entered into a computer program for analysis. Qualitative data are usually prepared for analysis in narrative form.
+
+#### Step 6: Prepare a Written or Oral Report
+
+Once the study has been completed, preparation of a report of the results follows. Such reports are designed to address the major questions of stakeholders, usually reflected in the initial purpose worked out in step 3. The report can be oral, written, or both. Report preparation involves several steps, including organizing, analyzing, and interpreting the findings so that they are understandable; developing conclusions and recommendations that are useful and practical; and exploring the use of visual aids, such as tables and graphs, to assist in communication. Reports of program evaluations are usually prepared for one set of stakeholders (e.g., funding agencies, administrators, boards of directors, community groups) and the reports of practice evaluations for another set (e.g., supervisors, program coordinators, clients).
+
+#### Step 7: Disseminate the Findings
+
+The last step of an evaluation is to disseminate the findings to stakeholders and others. Unfortunately, this step is often overlooked, minimized, or assumed to be up to those who would like to review it. The results are likely to be disseminated to several different types of stakeholders, some of which are obvious, such as the funding and regulatory agencies and the agency administration. Other stakeholders may be easily overlooked but are also important, including former and current clients and relevant community groups. A report can be communicated in many forms— including oral or written, comprehensive or brief—and in varied formats, such as a technical report, a public meeting, a staff workshop, a series of discussions, and a one-page summary for clients and their families.
+
+## **8. DEFINING AND CLARIFYING IMPORTANT TERMS**
+
+Several important terms are important to define before going further. They are relevant to answering numerous basic questions like, What is a program and how is it different from services? What distinguishes programs from the practice of individual workers? What are program evaluations and practice evaluations? How are they similar and different? Finally, what are evidence-based interventions? Let's consider the basic terms: program, program theory, practice, practice theory, services, interventions, program evaluation, practice evaluation, and evidence based interventions.
+
+As mentioned earlier in the chapter, a program is a subunit of a social agency that provides clients with a set of goods and/or services with common goals.These goods and services are typically provided to a specific population of clients who either voluntarily seek them or are required to receive them. A program typically employs more than one and usually several staff members to provide goods and services.
+
+Chen (2014) expands on this definition by developing the notion of program theory.Program theory is expected to encompass two important sets of documentation. First, it provides a descriptive documentation of the goals, outcomes, and interventions of the program based on the perspectives of various stakeholders. Second, program theory documents the nature of the causal relationship between the program interventions and the desired outcomes for the target group of recipients. It does this by offering research evidence that the proposed program model has been effective in helping a group of clients with a specific set of characteristics in the past. Also mentioned earlier, practice (or practice interventions) is a subunit of a program that provides the services of one worker to one client system. Practice consists of the helping processes provided by social workers and other staff that help each client reach their program goals. A social worker's practice can be offered to an individual, a family, a small group of clients, an organization, a social policy area, or a larger community. These helping processes of practice are a major focus of practice courses in professional social work programs and draw from a broad range of practice theories, such as generalist problem-solving, cognitive behavioral, person-centered, solution-focused treatments, and social action. In-service training programs of agencies are expected to periodically provide helpful updates on such practice approaches used in the agency. Practice theory can be described like program theory. In practice, goals, outcomes, and interventions are all documented as are the causal relationship between a practice intervention and the desired outcomes for a specific client.
+
+>**Example of a Program and the Practice Interventions of a Home Health Agency**
+>
+>A home health agency often sponsors one overall program, the goals of which are to help medically challenged clients remain in their own homes independently and prevent placement in a residential program such as an assisted living facility. Such a program offers several practice interventions or services to clients who are homebound, including counseling and referrals, nursing, physical therapy, and occupational therapy. These services are provided by a team of social workers, nurses, physical and occupational therapists, and others. They exist to help the program meet its goals.Home health programs also offer goods, such as medical supplies and incontinence products.
+
+Distinguishing between programs and practice is important. For example, if you were to describe a program to someone unfamiliar with what you do, you would likely begin by referring to its goals and what it attempts to accomplish for clients. In contrast, practices are embedded in and largely shaped by a program as mentioned earlier in the chapter. If you begin by describing the specific goals of a practice intervention with one client, your explanation may appear incomplete and beg for an explanation of why it exists or what it intends to accomplish in general.
+
+Because this book provides an emphasis on both programs and practice, the term intervention is often used to refer to either the entire program or the individual practices of each practitioner. As an example, interventions can be evident in a recovery program of a substance abuse agency as well as in the individual group practice of one staff member. In the previous editions of the book, services were also introduced as a term of importance. Services are the activities that both programs and one practitioner can offer. Services focus on the processes that help clients reach their goals. Since services do not distinguish between programs and practice interventions, think of services as a generic term that can be used interchangeably with program or practice interventions throughout the text.
+
+Using working definitions of these key concepts (programs, practice, and interventions), we can define program evaluations and practice evaluations. A program evaluation is a study of a social program that uses the principles and methods of scientific research. It concerns itself with the practical needs of an organization, not theoretical issues, and it abides by a professional ethical code. The primary purposes of a program evaluation are to provide accountability to its various stakeholders and to determine how effective the program is in helping clients.
+
+A practice evaluation is a study of a practitioner's interventions with a client, which can be at several different system levels (e.g., individual, group, neighborhood). Like a program evaluation, a practice evaluation uses the principles and methods of scientific research and abides by a professional ethical code. Unlike a program evaluation, it focuses on only one practitioner's practice at a time. One of the overall purposes of practice evaluations, like program evaluations, is to determine the effectiveness of the practice intervention in helping clients.
+
+In addition, another purpose of a practice evaluation is introduced in this edition—to improve or fine-tune a practitioner's practice interventions prior to a formal practice evaluation. For example, practice interventions may be found to work well with some clients and not others without needed modifications; in these instances, an informal practice evaluation may help identify what these modifications should be. A practice evaluation framework can also be used to help new practitioners enhance their skills in helping their clients informally.
+
+Evidence-based interventions are a key concept of evaluations. Ideally, before we use an intervention to help our clients, we should find out whether there is any existing evidence that it works or is effective. This essentially requires that the intervention has been implemented before and found to be effective in helping one or more specific client groups. The more evidence available that an intervention has worked, whether it is a program or practice intervention, the more confident we can be about its potential for effectiveness when we use it.
+
+Evidence can take many forms and can be used with varying degrees of confidence. The best evidence is based on evaluation studies using the common characteristics of evaluations described earlier in the chapter, especially using scientific research methods and abiding by an ethical code. Other forms of evidence are also possible to consider, including the wisdom passed on by another professional who has used the intervention. Another source could be the program and practice policies promulgated by respected professional organizations like NASW. Yet, these sources are weaker than the results of evaluations unless they had been substantiated by scientific evidence. Evidence-based interventions are discussed in more depth in the next chapter.
+
+### **8.1 What Program Evaluation Is Not**
+
+Considering what is not a program evaluation can also help us understand these key terms. Three important ways are described next.
+
+1. Program evaluations are not evaluations of individual clients. Instead, program evaluations typically aim to provide useful information about cohorts of clients. In this case, the emphasis is on the impact of the entire program on the cohort that it serves. Program evaluations usually have an informed consent protocol that clarifies that the client's personal identity is not to be revealed in association with any of his or her specific responses. However, a program evaluation occasionally could become an evaluation of individual clients under special circumstances. In this case, the ethical thing to do would be to notify the clients as to wwhy this is occurring. This preparatory step allows clients the opportunity to withdraw from the stuidy if they wish.
+
+2. Program evaluations do not evaluate the performance of individual staff members.Although evaluations of staff effort and performance are necessary, it would be confusing and a mistake to mix the purposes of a program evaluation and an evaluation of individual staff members. Such an initiative would not only confuse the participants in a study but also would likely instill distrust in the evaluation and discourage full cooperation from staff members. It may even encourage staff participants to manipulate their response in their favor or sabotage the study by boycotting it.
+
+3. Program evaluations are not public relations projects. A public relations project could be falsely presented as a program evaluation and used to promote the agency's programs in annual reports and other material disseminated to the public. In this case, the purpose would be misleading and dishonest, as it gives the impression that a genuine evaluation is going on. The results or portions of the results of an evaluation may be useful and appropriate to display in public relations materials that promote the agency but only after an independent evaluation is completed. Having a public relations emphasis built into an evaluation could bias the study toward a distorted positive outcome. In this case, some of the dramatic positive findings could end up being used in a report prepared for a funding agency while the neutral less dramatic findings could be disregarded and forgotten.
+
+>**Example of a Change from a Program Evaluation to Evaluation of Individual Clients**
+>
+> The State of North Carolina was successfully sued in a federal district court for failing to provide adequate services and physical safety to a selected group of people with mental illness and mental retardation in state mental hospitals (Dudley & Ahlgrim-Delzell,2002).For four years, a university sponsor of a longitudinal evaluation of these class members reported only aggregate data to a state agency, using a set of statewide indicators of client progress or success.Then the state agency's needs shifted, and it decided to begin requesting information on individual participants in these programs. The original informed consent letter of the academic sponsor of the evaluation specified that data would be released only in aggregate form without identifying individuals. Therefore, a change in informed consent was needed. As a matter of policy, the longitudinal research team provided each class member and his or her guardian or family member with a letter informing them of the change in policy. The letter explained the purpose of the study, outlined the type of data that would be collected and how the data would be obtained and released to the state on an individual basis. This letter also provided the recipient with the opportunity to withdraw from the study at any time without repercussions. Surprisingly, no one withdrew from the study.
+
+>**Example of a Program Evaluation withPotentially Conflicting Purposes**
+>
+> A student was asked to conduct an evaluation of two different groups of formerly incarcerated women for a family agency. In designing the study,the student was told by her supervisor that the agency wanted to use the data in part to determine whether one staff member's group practice was less effective than the others. After some discussion, the supervisor agreed to remove this concern, a personnel matter, as one of the agency's study questions, so as not to confuse the study's intent and to maximize staff cooperation.
+
+### **8.2 What Practice Evaluation Is Not**
+
+Considering what is not a practice evaluation can also help us understand these key terms. Two ways are noted next.
+
+1. Practice evaluations do not evaluate the performance of the individual staff members. They do evaluate whether a staff member's intervention succeeded in helping clients reach their goals. As mentioned previously, evaluations of staff performance are needed, but it would be confusing to mix such evaluations with a practice evaluation. Mixing these two different types of evaluation can easily instill distrust and resistance in staff members. Furthermore, the results of evaluations are likely to be manipulated if success with a client can be translated into a favorable performance review of their work.
+
+2. Practice evaluations do not measure the effectiveness of a program. They only evaluate individual practice. Although one practitioner in a program may effectively help his or her clients based on the results of a practice evaluation, it's not logical to conclude that the program is therefore effective.A practice evaluation does not consider other components of the program, including the practice interventions that other staff members provide.
+
+It is also important to note that although it would be unethical to refer to a staff performance evaluation as an evaluation of a program or practice, this can unfortunately still happen. As mentioned earlier, thne politics of evaluations could lead some agencies to consider such things covertly if they rationalize that it's okay because it is beneficial to the agency and its programs. Evaluators always need to be ready to confront any ethical dilemmas that can surface, as their obligation is to do the most ethical thing.
+
+## **9. SUMMARY**
+
+Chapter 1 introduces foundational material for understanding virtually all the material in the remaining chapters. The book begins by emphasizing that both programs and practice are its focus. Evaluations are introduced as having five possible purposes in general: determining effectiveness, efficiency, quality, evidence of effort, and relevance. In addition, evaluations are expected to have seven common characteristics.They are accountability, use of scientific research methods, the logic model as an analytic tool, stakeholders and a political process, being attentive to contextual issues, an ethical code, and critical thinking. The steps in conducting an evaluation are also introduced.
+
+Program and practice evaluation are viewed in the book as being equally important. Most of the time they are discussed together while occasionally they are examined separately because of important differences. In the book, the scope of evaluations is viewed broadly and can be conducted at any of three different possible stages of development: when programs and practice are being planned, during their implementation, and in an outcome stage that follows implementation. This three-stage approach is helpful in viewing all three stages as being interconnected, with the planning stage being used to identify the prospective clients, define and develop the intervention, and craft measures of the client outcomes that the intervention is intended to help them reach.
+
+## **10. KEY TERMS**
+
+- Accountability
+- Logic model
+- Scientific research Critical thinking
+- Outcome stage
+- methods Effectiveness
+- Planning stage
+- Seven Efficiency
+- Political processes
+- Evaluation Steps Effort
+- Practice
+- Stages of program Ethical codes
+- Practice evaluation
+- and practice Evidence-based
+- Program
+- development intervention
+- Program evaluation
+- Stakeholders Implementation stage
+- Quality
+- Three-Stage Approach Intervention
+- Relevance
+
+## **11. DISCUSSION QUESTIONS AND ASSIGNMENTS**
+
+1. Prepare an agency information sheet about your field or employment agency. Answer as many of the following questions as you can to learn more about the agency.
+   1. What programs does your agency provide?
+   2. What agency policies are you aware of that help define these programs, and how do they define them?
+   3. What have you discovered so far to be the views, attitudes, and experiences of administrators and staff in your agency about both program and practice evaluations? If they vary, indicate what these varied views are.
+   4. What types of program and practice evaluations are conducted in your agency?
+   5. Who in your agency, if anyone, is involved and interested in evaluations? Have you been involved in any evaluation activities in this agency?
+   6. What aspects of programs or practice in your field agency do you think need to be evaluated? Why?
+   7. List the key funding and regulatory agencies, professional associations, consumer groups, and other organizations to whom you think your agency should be accountable.
+
+2. Assume that you are employed at the agency mentioned in this chapter that provides psychoeducational group services to perpetrators of domestic violence. After the study was completed, the executive director of the agency decides to use the results of the study to evaluate the performance of individual staff members who are the group leaders. What are the ethical issues that the executive director needs to consider before proceeding to do this? What would you recommend that the agency do or not do related to evaluating the performance of staff members?
+
+3. Review the factors that make up the larger context of a program in Figure 1.2. In your opinion, which factors are essential to consider related to the effective functioning of a program? Practice? Which are optional? Give reasons for your answers.
+
+4. Select two different types of stakeholders of interest to you. Then identify the kinds of informational needs each of these stakeholders likely has. How are their needs different? How might this result in conflicting views about the purpose of an evaluation?
+5. Interview a staff member about an evaluation that he or she was (or currently is) conducting at your agency or read the final report of an evaluation. In what ways, if at all, do you see the seven common characteristics of evaluations (accountability, use of scientific research methods, the logic model as an analytical tool, stakeholders, and a political process, attention given to contextual issues, an ethical code, and thinking critically) evident in the staff member's comments about the evaluation or in the final report that you review?
+
+## **12. REFERENCES**
+
+- Bamberger,M., Rugh, J., & Mabry,L.(2019). Real world evaluation:Working under budget, time,data,and political constraints (3rd ed.). Los Angeles, CA:SAGE.
+- Chen,H. (2014).Practical program evaluation:Theory-driven evaluation and the integrated evaluation perspective (2nd ed.). Thousand Oaks, CA:SAGE.
+- Council on Social Work Education. (2015). Educational policy and accreditation standards. Retrieved from <https://www.cswe.org/getattachment/Accreditation/AccreditationProcess/2015-EPAS/2015EPAS_Web_FINAL.pdf.aspx>
+- Dudley, J.R. (2011). Research methods for social work:Being producers and consumers of research (Upd.2nd ed.).Boston,MA:Pearson.
+- Dudley,J.,& Ahlgrim-Delzell,L.(2002). From lawsuit to quality improvement.In J.Dudley, M.L. Calhoun, & L. Ahlgrim-Delzell(Eds.),Lessons learned from a lawsuit:Creating services for people with mental ilIness and mental retardation (pp.99-107). Kingston, NY:National Association for the Dually Diagnosed Press.
+- Gambrill E.,& Gibbs, L. (2017). CriticaI thinking for helping professionals: A skills-based workbook(4th ed.). Thousand Oaks,CA:Pine Forge Press.
+- Linfield, K. J., & Posavac, E. J. (2019). Program evaluation: Methods and case studies (9th ed.). Upper Saddle River,NJ: Prentice Hall.
+- Martin,L.L., & Kettner,P.M. (2009). Measuring performance of human service programs (2nd ed.). Thousand Oaks, CA:SAGE.
+- Urban Ministry Center. (2017). Permanent supportive housing in Charlotte, NC. Retrieved from <http://www.urbanministrycenter.org/helping-the-homeless/ways-we-help/housing-for-homeless/>
+- Weissman,H., Epstein,I., & Savage,A. (1983). Agency-based social work:Neglected aspects of clinical practice. Philadelphia,PA: Temple University.
+- York,R.O. (2009). Evaluating human services: A practical approach for the human service professional.Boston,MA:Pearson.
